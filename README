@@ -1,7 +1,7 @@
 dwm - dynamic window manager
 ============================
 dwm is an extremely fast, small, and dynamic window manager for X.
-
+This is a fork of the official DWM repository suckless/dwm but customized to my liking with my desired patches.
 
 Requirements
 ------------
@@ -18,6 +18,10 @@ necessary as root):
 
     make clean install
 
+
+Installed Patches
+-----------------
+- Autostart
 
 Running dwm
 -----------
